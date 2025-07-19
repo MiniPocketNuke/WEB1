@@ -1,1 +1,1 @@
-## Project Sample [![Build status](https://ci.appveyor.com/api/projects/status/kv9c4yhc12724e1o?svg=true)](https://ci.appveyor.com/project/MiniPocketNuke/web1)
+## Project Sample [![Build status](https://ci.appveyor.com/api/projects/status/kv9c4yhc12724e1o?svg=true)](https://ci.appveyor.com/project/MiniPocketNuke/web1) [![Java CI with Gradle](https://github.com/MiniPocketNuke/WEB1/actions/workflows/main.yml/badge.svg)](https://github.com/MiniPocketNuke/WEB1/actions/workflows/main.yml)
